@@ -29,10 +29,12 @@ html {
 h1, h2 {
   text-align: center;
   font-family: 'Kaushan Script', cursive;
+  color: blue;
 }
 
 h4 {
   font-family: 'Hammersmith One', sans-serif;
+  color: #5637A6;
 }
 
 a:hover {
@@ -76,8 +78,9 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   overflow: auto;
-  border: #5637A6 2px solid;
-  background-color: #BED4FF;
+  border: blue 2px solid;
+  /*border: #5637A6 2px solid;*/
+  background-color: #BFCFFF;
   border-radius: 5px;
   padding: 5px;
 }
@@ -89,8 +92,9 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   overflow: auto;
-  border: #5637A6 2px solid;
-  background-color: #BED4FF;
+  border: blue 2px solid;
+  /*border: #5637A6 2px solid;*/
+  background-color: #BFCFFF;
   border-radius: 5px;
   padding: 5px;
 }
@@ -107,12 +111,17 @@ a:hover {
   padding: 5px;
 }
 
+#proj_div {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #projects {
-  border: green 2px solid;
+  border: #3498A6 2px solid;
   border-radius: 5px;
   margin: 10px;
   padding: 5px;
-  width: 75%;
   margin-left: auto;
   margin-right: auto;
   font-family: 'Josefin Sans', sans-serif;
@@ -120,6 +129,10 @@ a:hover {
 
 #projects > ol {
   padding: 20px;
+}
+
+#proj_intro {
+  margin-top: 20px;
 }
 
 #textInput {
@@ -136,9 +149,9 @@ a:hover {
 #input {
   margin-left: auto;
   margin-right: auto;
-  width: 25%;
+  width: 19em;
   padding: 10px;
-  border: green 2px solid;
+  border: blue 2px solid;
   border-radius: 10px;
   background-color: #AAAAFF;
 }
@@ -196,7 +209,7 @@ button {
   clear: both;
   float: left;
   width: 6em;
-  margin-left: 10em;
+  margin-left: 8.5em;
   margin-top: 1em;
   margin-bottom: 1em;
   background-color: #0000CC;
@@ -215,7 +228,7 @@ p {
 .reqd {
   color: #BF3030;
   clear: left;
-  margin-left: 5em;
+  margin-left: 6em;
 }
 
 .center {
@@ -235,12 +248,19 @@ table a {
 }
 
 #mailto {
-  position: absolute;
-  top: 90%;
-  left: 15px;
+  /*position: absolute;*/
+  /*top: 90%;*/
+  /*left: 15px;*/
+  width: 13em;
+  clear: both;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
   border: blue 2px solid;
   border-radius: 5px;
-  background-color: #FFF7CA;
+  /*background-color: #FFF7CA;*/
+  background-color: #D0DCFF;
+
   padding: 10px;
 }
 
@@ -253,7 +273,7 @@ table a {
 #footpane {
   border: #5637A6 2px solid;
   border-radius: 5px;
-  background-color: #FFF7CA;
+  background-color: #D0DCFF;
   padding: 5px;
   width: 615px;
   margin-left: auto;
