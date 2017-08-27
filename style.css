@@ -70,33 +70,33 @@ a:hover {
 }
 
 #aboutme {
-  width: 75%;
+  width: 50%;
   text-align: center;
   margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
   overflow: auto;
   border: #5637A6 2px solid;
-  background-color: #D1BFFF;
+  background-color: #CBC0FF;
   border-radius: 5px;
   padding: 5px;
 }
 
 #background {
-  width: 75%;
+  width: 50%;
   text-align: center;
   margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
   overflow: auto;
   border: #5637A6 2px solid;
-  background-color: #D1BFFF;
+  background-color: #CBC0FF;
   border-radius: 5px;
   padding: 5px;
 }
 
 #why {
-  width: 75%;
+  width: 50%;
   text-align: center;
   margin-top: 10px;
   margin-left: auto;
@@ -240,7 +240,7 @@ table a {
   left: 15px;
   border: blue 2px solid;
   border-radius: 5px;
-  background-color: #FFE19F;
+  background-color: #CAC6AF;
   padding: 10px;
 }
 
@@ -253,7 +253,7 @@ table a {
 #footpane {
   border: #5637A6 2px solid;
   border-radius: 5px;
-  background-color: #FFF09F;
+  background-color: #CAC6AF;
   padding: 5px;
   width: 615px;
   margin-left: auto;
