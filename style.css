@@ -100,6 +100,7 @@ a:hover {
 }
 
 #HitCounter {
+  width: 95px;
   padding: 0px;
   margin-top: 15px;
   margin-left: auto;
