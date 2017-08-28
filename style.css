@@ -112,6 +112,7 @@ a:hover {
 }
 
 #HitCounter {
+  padding: 0px;
 
 }
 
@@ -247,9 +248,9 @@ table {
   border: #5637A6 2px solid;
 }
 
-table a {
+/*table a {
   padding: 5px;
-}
+}*/
 
 #mailto {
   /*position: absolute;*/
