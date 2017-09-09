@@ -100,7 +100,7 @@ a:hover {
 }
 
 #HitCounter {
-  width: 100px;
+  width: 110px;
   padding: 0px;
   margin-top: 15px;
   margin-left: auto;
@@ -285,6 +285,6 @@ p {
 }
 
 #footpane a {
-  margin-left: 15px;
-  margin-right: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
